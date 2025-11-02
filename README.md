@@ -74,8 +74,30 @@ Observational study analyzing patterns in human-AI communication and their relat
 
 ### 🎯 Applications | التطبيقات
 
+#### **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭
+Interactive assessment tool providing instant cognitive sovereignty evaluation and gap analysis.
+
+**Live Demo:** [app-5c655e46.base44.app](https://app-5c655e46.base44.app/)  
+**Features:**  
+- 🎯 Instant sovereignty scoring (0-100%)
+- 📊 Three-dimensional analysis
+- 🔍 Gap identification (Functional, Ethical, Existential)
+- 💬 AI interaction tracking
+- 📅 Historical assessments
+
+**Status:** Live and active  
+**Topics:** `assessment` `interactive-tool` `cognitive-sovereignty` `arabic-ui`
+
+<div dir="rtl">
+
+أداة تقييم تفاعلية توفر تقييماً فورياً للسيادة المعرفية وتحليل الفجوات.
+
+</div>
+
+---
+
 #### **[ecf-dashboard](https://github.com/riteofrenaissance/ecf-dashboard)**
-Real-time monitoring dashboard for tracking cognitive sovereignty metrics in human-AI interactions.
+Real-time monitoring dashboard for tracking cognitive sovereignty metrics over time.
 
 **Tech Stack:** React, TypeScript, Recharts  
 **Features:**  
@@ -85,11 +107,11 @@ Real-time monitoring dashboard for tracking cognitive sovereignty metrics in hum
 - 🌍 Arabic/English bilingual interface  
 
 **Status:** In development  
-**Topics:** `dashboard` `react` `cognitive-metrics` `arabic-ui`
+**Topics:** `dashboard` `react` `cognitive-metrics` `monitoring`
 
 <div dir="rtl">
 
-لوحة مراقبة فورية لتتبع مقاييس السيادة المعرفية في التفاعلات بين الإنسان والذكاء الاصطناعي.
+لوحة مراقبة فورية لتتبع مقاييس السيادة المعرفية عبر الزمن.
 
 </div>
 
@@ -103,10 +125,26 @@ ecf-theory (النظرية)
     ├─→ ecf-study-aperture (تجربة الحدود)
     ├─→ ecf-study-interactions (تحليل الأنماط)
     ↓
-    └─→ ecf-dashboard (القياس والتطبيق)
+    ├─→ ecf-compass (التقييم الفوري) 🧭
+    └─→ ecf-dashboard (المراقبة المستمرة) 📊
            ↓
         Zenodo Archive (أرشفة البيانات)
 ```
+
+---
+
+## 🧭 Compass vs Dashboard
+
+| Feature | ECF Compass | ECF Dashboard |
+|---------|-------------|---------------|
+| **Purpose** | Instant assessment | Long-term monitoring |
+| **Use When** | Need quick evaluation | Track trends over time |
+| **Detail** | Deep dive per interaction | Aggregate overview |
+| **Gap Analysis** | 3 types (45/30/25%) | Average percentage |
+
+**Recommendation:**
+- Use **Compass** for immediate feedback on specific AI interactions
+- Use **Dashboard** for tracking sovereignty improvements over weeks/months
 
 ---
 
@@ -131,7 +169,8 @@ All repositories use consistent topics for discoverability:
 **By Category:**
 - Theory: `theory` `philosophy` `cognitive-science`
 - Research: `rct-study` `qualitative-research` `experimental-design`
-- Technical: `react` `dashboard` `typescript` `arabic-ui`
+- Tools: `assessment` `dashboard` `interactive-tool`
+- Technical: `react` `typescript` `arabic-ui`
 - Content: `ambiguity-tolerance` `ai-interaction` `cognitive-sovereignty`
 
 ---
@@ -143,7 +182,7 @@ All repositories use consistent topics for discoverability:
 هذا مشروع بحثي مفتوح المصدر. نرحب بالمساهمات في:
 - مراجعة النظرية والأدبيات
 - تحليل البيانات والنتائج
-- تطوير لوحة القياس
+- تطوير الأدوات التفاعلية
 - الترجمة والتوثيق
 
 </div>
@@ -151,7 +190,7 @@ All repositories use consistent topics for discoverability:
 **Ways to contribute:**
 - Review theoretical framework and literature
 - Analyze data and results
-- Develop dashboard features
+- Develop assessment tools and dashboards
 - Translation and documentation
 
 ---
@@ -170,7 +209,7 @@ For research collaborations, questions, or feedback:
 
 - **Theory & Documentation:** Creative Commons BY-SA 4.0
 - **Research Protocols:** CC0 1.0 (Public Domain)
-- **Code & Dashboard:** MIT License
+- **Code & Tools:** MIT License
 
 ---
 
@@ -195,7 +234,8 @@ If you use this work in your research:
 **Built with 🧠 for cognitive sovereignty**
 
 [Theory](https://github.com/riteofrenaissance/ecf-theory) • 
-[Research](https://github.com/riteofrenaissance/ecf-study-aperture) • 
-[Dashboard](https://github.com/riteofrenaissance/ecf-dashboard)
+[Compass 🧭](https://app-5c655e46.base44.app/) • 
+[Dashboard](https://github.com/riteofrenaissance/ecf-dashboard) • 
+[Research](https://github.com/riteofrenaissance/ecf-study-aperture)
 
 </div>
