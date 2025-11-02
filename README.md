@@ -77,9 +77,6 @@ Observational study analyzing patterns in human-AI communication and their relat
 #### **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭
 Interactive assessment tool providing instant cognitive sovereignty evaluation and gap analysis.
 
-#### **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭
-Interactive assessment tool tracking 10 AI systems with real-time sovereignty scoring.
-
 **Live Demo:** [app-5c655e46.base44.app](https://app-5c655e46.base44.app/)  
 **Features:**  
 - 🤖 Track 10+ AI systems simultaneously
@@ -90,18 +87,6 @@ Interactive assessment tool tracking 10 AI systems with real-time sovereignty sc
 
 **Status:** Live and active  
 **Overall Score:** 75.9% sovereignty
-
-**Live Demo:** [app-5c655e46.base44.app](https://app-5c655e46.base44.app/)  
-**Features:**  
-- 🎯 Instant sovereignty scoring (0-100%)
-- 📊 Three-dimensional analysis
-- 🔍 Gap identification (Functional, Ethical, Existential)
-- 💬 AI interaction tracking
-- 📅 Historical assessments
-
-**Status:** Live and active  
-**Topics:** `assessment` `interactive-tool` `cognitive-sovereignty` `arabic-ui`
-
 <div dir="rtl">
 
 أداة تقييم تفاعلية توفر تقييماً فورياً للسيادة المعرفية وتحليل الفجوات.
