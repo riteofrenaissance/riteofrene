@@ -71,25 +71,37 @@ Observational study analyzing patterns in human-AI communication and their relat
 </div>
 
 ---
-
 ### 🎯 Applications | التطبيقات
 
 #### **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** 🧭
-Interactive assessment tool providing instant cognitive sovereignty evaluation and gap analysis.
+Interactive multi-AI sovereignty assessment tool providing instant evaluation and gap analysis across 10 AI systems.
 
 **Live Demo:** [app-5c655e46.base44.app](https://app-5c655e46.base44.app/)  
-**Features:**  
-- 🤖 Track 10+ AI systems simultaneously
-- 📊 Per-system sovereignty scores
+
+**Tracked Systems:**
+- Text: GPT-4, Claude 3, Gemini Pro, Jasper AI
+- Images: DALL-E 3, Midjourney, Stable Diffusion
+- Tools: DeepL, IBM Watson, GitHub Copilot
+
+**Key Features:**  
+- 🤖 Track 10 AI systems simultaneously
+- 📊 Per-system sovereignty scoring (0-100%)
 - 🔍 Three-dimensional gap analysis
-- 💬 Interaction logging
-- 📈 Historical tracking
+- 💬 Interaction logging and tagging
+- 📈 Historical assessments
+- 🌍 Full Arabic interface
+
+**Current Metrics:**
+- Total Systems: 10
+- Active Systems: 4
+- Overall Sovereignty: 75.9%
 
 **Status:** Live and active  
-**Overall Score:** 75.9% sovereignty
+**Topics:** `multi-ai-tracking` `assessment-tool` `arabic-ui`
+
 <div dir="rtl">
 
-أداة تقييم تفاعلية توفر تقييماً فورياً للسيادة المعرفية وتحليل الفجوات.
+أداة تقييم تفاعلية لتتبع السيادة المعرفية عبر 10 أنظمة ذكاء اصطناعي مع تحليل فوري للفجوات.
 
 </div>
 
@@ -113,7 +125,6 @@ Real-time monitoring dashboard for tracking cognitive sovereignty metrics over t
 لوحة مراقبة فورية لتتبع مقاييس السيادة المعرفية عبر الزمن.
 
 </div>
-
 ---
 
 ## 🔄 Project Relationships | العلاقات بين المشاريع
